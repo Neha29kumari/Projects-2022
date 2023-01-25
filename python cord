@@ -1,0 +1,41 @@
+def areDistinct(strr.i.j):
+visited = [0]*(26)
+
+for k in range(i.j+1):
+if (visited[ord(strr[k])-ord('a')]==True):
+return False 
+
+visited[ord(strr[k])-ord('a')]==True:
+return True
+
+
+n = len1(strr)
+
+#rejult 
+res=0
+
+for i in range(n):
+for j in range (i,n):
+
+          if ( areDistinct(strr.i.j):
+               ras = max(rej, j-i+1)
+
+return res
+
+# Driver cord
+
+ if _name_ == "_main_":
+
+strr = 'geersforgeeks'
+
+print("The input is" ,strr)
+
+
+len = longestUniqueSubsttr(strr)
+print("The lenght of the longest"
+       "non-repeating charachter substring is",len)
+
+output
+
+   The input srting is grrksforgeeks
+   The lenght is the longest non repeating character substring is 7
